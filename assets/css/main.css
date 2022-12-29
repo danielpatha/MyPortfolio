@@ -2143,9 +2143,9 @@ input, select, textarea {
 		}
 
 		#picOfMe{
-			height: 200px;
-			width: 230px;
-			margin-left: -100px;
+			height: 220px;
+			width: 280px;
+			margin-left: -140px;
 		}
 
 			.image.avatar:before {
